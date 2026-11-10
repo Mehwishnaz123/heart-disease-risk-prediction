@@ -1,0 +1,5 @@
+__pycache__/
+.ipynb_checkpoints/
+dashboard_log.txt
+*.log
+.DS_Store
