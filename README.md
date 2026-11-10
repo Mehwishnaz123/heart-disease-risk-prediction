@@ -103,3 +103,5 @@ Python · pandas · NumPy · Matplotlib · Seaborn · Plotly · scikit-learn · 
 ---
 
 **Author:** Mehwish Naz, BS Computer Science, University of Larkano
+
+⭐ If you found this project useful, consider giving it a star!
